@@ -28,7 +28,7 @@ require (
 	github.com/bmatcuk/doublestar/v4 v4.6.0
 	github.com/charmbracelet/huh v0.6.0
 	github.com/chrismellard/docker-credential-acr-env v0.0.0-20230304212654-82a0ddb27589
-	github.com/compose-spec/compose-go/v2 v2.2.0
+	github.com/compose-spec/compose-go/v2 v2.4.1
 	github.com/containers/image/v5 v5.33.1
 	github.com/creack/pty v1.1.23
 	github.com/distribution/reference v0.6.0

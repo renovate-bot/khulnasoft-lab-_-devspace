@@ -343,7 +343,7 @@ github.com/coder/websocket/internal/errd
 github.com/coder/websocket/internal/util
 github.com/coder/websocket/internal/wsjs
 github.com/coder/websocket/internal/xsync
-# github.com/compose-spec/compose-go/v2 v2.2.0
+# github.com/compose-spec/compose-go/v2 v2.4.1
 ## explicit; go 1.21
 github.com/compose-spec/compose-go/v2/cli
 github.com/compose-spec/compose-go/v2/consts
