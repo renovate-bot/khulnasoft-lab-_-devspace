@@ -99,7 +99,7 @@ require (
 	golang.org/x/exp v0.0.0-20240119083558-1b970713d09a
 	golang.org/x/mod v0.21.0
 	golang.org/x/net v0.30.0
-	golang.org/x/oauth2 v0.21.0
+	golang.org/x/oauth2 v0.27.0
 	golang.org/x/sync v0.9.0
 	golang.org/x/sys v0.27.0
 	golang.org/x/term v0.25.0
